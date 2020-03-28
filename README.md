@@ -1,7 +1,7 @@
 Here are the some of the projects created by me
 
 1. College/Tuition institute management system
-[visit>>](https://github.com/Mayurboxer/Mayurboxer.github.io/tree/master/colleges "Visit>>")
+[Visit>>](https://github.com/Mayurboxer/Mayurboxer.github.io/tree/master/colleges "Visit>>")
 2. Online MCQ based test questions
 [Visit>>](https://github.com/Mayurboxer/Mayurboxer.github.io/tree/master/test "Visit>>")
 3. Web Based Dictionary
