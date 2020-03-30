@@ -1,4 +1,4 @@
-Here are the some of the projects created by me
+Hii I am Mayur Jangale, welcome to my GITHUB page. Here are some of the projects I have worked on-
 
 1. College/Tuition institute management system
 [Visit>>](https://github.com/mayur-jangale/mayur-jangale.github.io/tree/master/colleges "Visit>>")
@@ -10,3 +10,7 @@ Here are the some of the projects created by me
 [Visit>>](https://github.com/mayur-jangale/mayur-jangale.github.io/tree/master/votes "Visit>>")
 
 There is a readme.txt file in each folder leading to the installation of each tool.
+
+Here is the notes website containing the notes created on various subjects [Visit>>](https://notefromclassbroom.blogspot.com/)
+
+Visit my website for more information - [Mayurhere.live](https://www.mayurhere.live)
