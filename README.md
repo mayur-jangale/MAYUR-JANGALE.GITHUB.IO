@@ -1,4 +1,4 @@
-Hii I am Mayur Jangale, welcome to my GITHUB page. Here are some of the projects I have worked on-
+Hii I am Mayur Jangale, welcome to my GITHUB page. In the last year I was working on the project www.classbroom.me, which is now discontinued. Here are some of the scripts of the websites I have worked on-
 
 1. College/Tuition institute management system
 [Visit>>](https://github.com/mayur-jangale/mayur-jangale.github.io/tree/master/colleges "Visit>>")
