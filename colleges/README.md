@@ -1,5 +1,5 @@
 Welcome to college management system
-Feactures: 
+Features: 
  1. Notification system. Send announcements to all students
  2. Multiple Class Support
  3. Attendance Feature with students dashboard to view the old attendance.
