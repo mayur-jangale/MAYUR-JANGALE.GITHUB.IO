@@ -9,7 +9,7 @@ Hii I am Mayur Jangale, welcome to my GITHUB page. Here are some of the projects
 4. Voting portal
 [Visit>>](https://github.com/mayur-jangale/mayur-jangale.github.io/tree/master/votes "Visit>>")
 
-There is a readme.txt file in each folder leading to the installation of each tool.
+There is a README.md file in each folder leading to the installation of each tool.
 
 Here is the notes website containing the notes created on various subjects [Visit>>](https://notefromclassbroom.blogspot.com/)
 
