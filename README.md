@@ -10,5 +10,7 @@ As below with project folder links:
 - [Lead score problem](https://github.com/mayur-jangale/MAYUR-JANGALE.GITHUB.IO/tree/Feature_initial/Lead%20score%20problem)
 - [Regression problem](https://github.com/mayur-jangale/MAYUR-JANGALE.GITHUB.IO/tree/Feature_initial/Regression%20problem)
 - [Telecom churn prediction problem ](https://github.com/mayur-jangale/MAYUR-JANGALE.GITHUB.IO/tree/Feature_initial/Telecom%20churn%20prediction%20problem)
+- [Credit card froad detection](https://github.com/mayur-jangale/MAYUR-JANGALE.GITHUB.IO/tree/master/Credit%20card%20froad%20detection%20-%20capstone%20project)
+
 
 For more details or in case any queries feel free to reach out on [mayurjangale1@gmail.com](mailto:mayurjangale1@gmail.com)
