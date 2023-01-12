@@ -1,16 +1,14 @@
-Hii I am Mayur Jangale, welcome to my GITHUB page. In the last year I was working on the project www.classbroom.me, which is now discontinued. Here are some of the scripts of the websites I have worked on-
+Hello, I am Mayur Jangale. Welcome to my Github repository,
 
-1. College/Tuition institute management system
-[Visit>>](https://github.com/mayur-jangale/mayur-jangale.github.io/tree/master/colleges "Visit>>")
-2. Online MCQ based test questions
-[Visit>>](https://github.com/mayur-jangale/mayur-jangale.github.io/tree/master/test "Visit>>")
-3. Web Based Dictionary
-[Visit>>](https://github.com/mayur-jangale/mayur-jangale.github.io/tree/master/dictionary "Visit>>")
-4. Voting portal
-[Visit>>](https://github.com/mayur-jangale/mayur-jangale.github.io/tree/master/votes "Visit>>")
+This repository is dedicated to my academic projects related to Data Science. It includes projects that I have created to explore the fundamentals of Data Science and Machine Learning. The projects include regression, classification, clustering, advanced SQL and case studies. I have used various data science libraries such as Scikit-learn, NumPy, Pandas and Seaborn to implement different models and analyse the data for the projects. This repository is a great resource to get an overview of the topics I have covered in my Data Science journey.
 
-There is a README.md file in each folder leading to the installation of each tool.
+As below with project folder links:
+- [Advanced SQL case study](https://github.com/mayur-jangale/MAYUR-JANGALE.GITHUB.IO/tree/Feature_initial/Advanced%20SQL%20case%20study) 
+- [Airbnb data story telling case study](https://github.com/mayur-jangale/MAYUR-JANGALE.GITHUB.IO/tree/Feature_initial/Airbnb%20case%20study%20data%20storytelling)
+- [Exploratory data analysis](https://github.com/mayur-jangale/MAYUR-JANGALE.GITHUB.IO/tree/Feature_initial/Exploratory%20data%20analysis) 
+- [IMDB case study advanced SQL](https://github.com/mayur-jangale/MAYUR-JANGALE.GITHUB.IO/tree/Feature_initial/IMDB%20case%20study%20-%20advaced%20SQL)
+- [Lead score problem](https://github.com/mayur-jangale/MAYUR-JANGALE.GITHUB.IO/tree/Feature_initial/Lead%20score%20problem)
+- [Regression problem](https://github.com/mayur-jangale/MAYUR-JANGALE.GITHUB.IO/tree/Feature_initial/Regression%20problem)
+- [Telecom churn prediction problem ](https://github.com/mayur-jangale/MAYUR-JANGALE.GITHUB.IO/tree/Feature_initial/Telecom%20churn%20prediction%20problem)
 
-Here is the notes website containing the notes created on various subjects [Visit>>](https://notefromclassbroom.blogspot.com/)
-
-Visit my website for more information - [Mayurhere.live](https://www.mayurhere.live)
+For more details or in case any queries feel free to reach out on [mayurjangale1@gmail.com](mailto:mayurjangale1@gmail.com)
